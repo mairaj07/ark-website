@@ -34,7 +34,7 @@ body{
     opacity: 0.6;
     width: 100%;
     position: absolute;
-    bottom: 0px;
+    bottom: 20px;
 }
 .submit-button{
    background-color:blue;
@@ -54,6 +54,9 @@ body{
 #arkstuff, .ark-text{
     margin-top: 0%;
 }
+.separate{
+    justify-content: center;
+}
 .template-h1{
     text-align: center;
 }
@@ -62,7 +65,6 @@ body{
 }
 .radius{
     border-radius: 50%;
-}
 }
 .img-separator{
     display: flex;
